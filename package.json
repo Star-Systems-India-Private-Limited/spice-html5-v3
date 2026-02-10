@@ -1,6 +1,6 @@
 {
   "name": "spice-html5",
-  "version": "VERSION",
+  "version": "1.0.0",
   "description": "Spice Javascript client",
   "main": "src/main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.freedesktop.org/spice/spice-html5.git"
+    "url": "https://github.com/Star-Systems-India-Private-Limited/spice-html5-v3.git"
   },
   "keywords": [
     "spice",
